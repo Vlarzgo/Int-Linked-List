@@ -1,5 +1,3 @@
-package Task4;
-
 public interface IntQueue {
 
     void add(int element);
