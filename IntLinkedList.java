@@ -142,7 +142,7 @@ public class IntLinkedList implements IntList, IntQueue, IntStack {
             }
         }
         return true;
-    }
+    } 
 
     @Override
     public boolean set(int index, int element) {
