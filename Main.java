@@ -1,5 +1,3 @@
-package Task4;
-
 public class Main {
     public static void main(String[] args) {
 
@@ -42,7 +40,7 @@ public class Main {
         myList.set(4, 55);
         System.out.println("Set 55 at index 4\n" + myList);
 
-        myList.removeByValue(13);
+        myList.removeByValue(5);
         System.out.println("Remove by value 5\n" + myList);
 
         myList.remove(4);
